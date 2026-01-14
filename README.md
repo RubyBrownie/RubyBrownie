@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gavin
-- 👀 I’m interested in Programming, space and technology, and the future
-- 🌱 I’m currently learning Python, Web Development, Engineering, and other skills
+- 👀 I’m interested in programming, space and technology, and the future
+- 🌱 I’m currently learning Python, Web Development, Java, C, SQL, R, and other skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
